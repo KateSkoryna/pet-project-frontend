@@ -1,5 +1,5 @@
 {
-  "name": "pet-support-project-frontend",
+  "name": "pet-project-frontend",
   "homepage": "https://KateSkoryna.github.io/pet-project-frontend",
   "version": "0.1.0",
   "private": true,
@@ -45,7 +45,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -b master -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
